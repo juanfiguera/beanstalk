@@ -1,5 +1,5 @@
 	var randomVar = Math.floor(Math.random()*11);
-	alert(randomVar);
+	// alert(randomVar);
 
 	function disp_prompt()
 	{
